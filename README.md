@@ -1,9 +1,13 @@
 # webpack-GettingStarted
 ## Basic Setup
-./npm i
-
-./index.html 실행
+### node_modules 생성
+$ ./npm i
+### entry point
+$ ./index.html
 ## Creating a Bundle
-./npm i
-
-./dist/index.html 실행
+### node_modules 생성
+$ ./npm i
+### 번들 명령어
+$ ./npx webpack
+### entry point
+$ ./dist/index.html
