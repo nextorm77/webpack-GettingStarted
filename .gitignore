@@ -93,7 +93,8 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# 해당 폴더에 index.html을 수동 저장해야 하므로 추적(track) 필요
+# dist
 
 # Gatsby files
 .cache/
