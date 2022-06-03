@@ -11,3 +11,10 @@ $ ./npm i
 $ ./npx webpack
 ### entry point
 $ ./dist/index.html
+## NPM Scripts
+### node_modules 생성
+$ ./npm i
+### 번들 명령어
+$ ./npm run build
+### entry point
+$ ./dist/index.html
